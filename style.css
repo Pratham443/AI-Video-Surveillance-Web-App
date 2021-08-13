@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+
+canvas {
+    border-radius: 20px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 140px;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.btn-success, .btn-warning, .btn-danger {
+    font-size: 18px;
+}
+
+.copyright_footer {
+    width: 100%;
+    position: fixed;
+    background-color: gray;
+    color: white;
+    line-height: 3;
+    text-align: center;
+    bottom: 0px;
+}
